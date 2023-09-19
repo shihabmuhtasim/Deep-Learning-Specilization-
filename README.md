@@ -1,4 +1,4 @@
-## Deeplearning.Ai Deep Learning Specilization 
+##Deep Learning Specilization by Deeplearning.Ai 
 
 ![GitHub top language](https://img.shields.io/github/languages/top/shihabmuhtasim/Neural-Networks-and-Deep-Learning--Coursera?color=f5f5dc) 
 ![GitHub language count](https://img.shields.io/github/languages/count/shihabmuhtasim/Neural-Networks-and-Deep-Learning--Coursera?color=f5f5dc) 
